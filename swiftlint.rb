@@ -1,7 +1,7 @@
 class Swiftlint < Formula
   desc "Experimental tool to enforce Swift style and conventions"
   homepage "https://github.com/metova/SwiftLint"
-  url "https://github.com/metova/SwiftLint.git", :tag => "0.10.0m2", :revision => "c1e021242b164bd01e41db47799db9b9b656a5c4"
+  url "https://github.com/metova/SwiftLint.git", :tag => "0.10.0m3", :revision => "2009326abcc7826a6228c3093547e08b8f5be3b0"
   head "https://github.com/metova/SwiftLint.git"
 
   depends_on :xcode => ["7.1", :build]
